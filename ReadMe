@@ -1,1 +1,64 @@
+## 👤 Identitas Mahasiswa
 
+| Attribute | Keterangan |
+|-----------|------------|
+| **Nama** | Anthonius Dale Fernando |
+| **NIM** | 312410162 |
+| **Kelas** | TI 24 A1 |
+| **Mata Kuliah** | Pemrograman Web |
+| **Praktikum** | Praktikum 6 |
+| **Institusi** | Universitas Pelita Bangsa |
+| **Program Studi** | Teknik Informatika |
+
+
+```
+bootstrap-website/
+│
+├── index.html          # Halaman beranda
+├── about.html          # Halaman tentang
+├── contact.html        # Halaman kontak
+└── README.md          # Dokumentasi proyek
+```
+
+## 🔍 Penjelasan Halaman
+
+### 🏠 Home (index.html)
+Halaman utama website yang menampilkan:
+- Hero section dengan judul utama dan CTA button
+- Grid system dengan 3 kolom konten berisi gambar dan deskripsi
+- Sidebar dengan widget card
+- Featurette section untuk highlight konten penting
+- Footer informatif
+
+### ℹ️ About (about.html)
+Halaman yang berisi:
+- Profil dan tujuan pembuatan website
+- Penjelasan tentang Bootstrap framework
+- Alasan menggunakan Bootstrap
+- Layout kombinasi teks dan visual
+
+### 📧 Contact (contact.html)
+Halaman kontak dengan:
+- Form kontak lengkap (nama, email, pesan)
+- Informasi kontak institusi
+- Layout responsif dua kolom
+
+## 🎨 Komponen Bootstrap yang Diimplementasikan
+
+| Komponen | Deskripsi | Halaman |
+|----------|-----------|---------|
+| **Navbar** | Navigation bar responsif dengan toggle menu | Semua halaman |
+| **Grid System** | Layout kolom menggunakan container-row-col | Semua halaman |
+| **Cards** | Widget sidebar dan konten terstruktur | index.html |
+| **Forms** | Formulir input dengan styling Bootstrap | contact.html |
+| **Buttons** | Tombol dengan berbagai style | index.html |
+| **Typography** | Heading, lead, dan text utilities | Semua halaman |
+| **Spacing** | Margin dan padding utilities (mt, mb, py, dll) | Semua halaman |
+| **Colors** | Background dan text color utilities | Semua halaman |
+| **Images** | Responsive images dan rounded shapes | Semua halaman |
+
+
+
+⭐ **Jika repository ini membantu, jangan lupa berikan star!**
+
+**Dibuat dengan ❤️ untuk pembelajaran Web Framework**
